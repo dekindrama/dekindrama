@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm indra, my primary skill is mostly about backend such as php laravel and mysql. I'm also have basic and knowledge about frontend like html, tailwindcss, and react; and also some basic and knowledge about dev ops such as ubuntu linux OS and aws (specificly ec2, s3 and aws aurora). 
+i'm indra, my primary skill is mostly about backend such as php laravel and mysql. I'm also have basic and knowledge about frontend like html, tailwindcss, and react; and also some basic and knowledge about dev ops such as ubuntu linux OS and AWS. 
 
 <!--
 **dekindrama/dekindrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
