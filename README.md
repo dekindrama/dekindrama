@@ -2,6 +2,11 @@
 
 i'm indra, my primary skill is mostly about backend such as php laravel and mysql. I'm also have basic and knowledge about frontend like html, tailwindcss, and react; and also some basic and knowledge about dev ops such as ubuntu linux OS and AWS. 
 
+More about me:
+- Linkedin: [https://www.linkedin.com/in/i-kadek-i-bb5563234/](https://www.linkedin.com/in/i-kadek-i-bb5563234/)
+- Dicoding: [https://www.dicoding.com/users/dekindrama/academies](https://www.dicoding.com/users/dekindrama/academies)
+- Github: [https://github.com/dekindrama](https://github.com/dekindrama)
+
 <!--
 **dekindrama/dekindrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
